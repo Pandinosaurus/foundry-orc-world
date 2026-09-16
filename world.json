@@ -2,15 +2,17 @@
   "title": "Orc",
   "id": "orc",
   "system": "orc",
-  "coreVersion": "11.315",
+  "coreVersion": "13.351",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11.315"
+    "minimum": "13",
+    "verified": "13.351"
   },
   "systemVersion": "2.11",
-  "lastPlayed": "Fri Aug 14 2026 15:36:56 GMT+0000 (Coordinated Universal Time)",
+  "lastPlayed": "Wed Sep 09 2026 17:50:55 GMT+0000 (Coordinated Universal Time)",
   "safeMode": false,
-  "playtime": 10445821,
+  "playtime": 10446339,
   "background": "systems/orc/icons/ImagePrincipale.jpg",
-  "joinTheme": "default"
+  "joinTheme": "default",
+  "description": "",
+  "flags": {}
 }
